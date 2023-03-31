@@ -1,0 +1,6 @@
+name: HardcoreServer
+version: ${project.version}
+main: me.crazycranberry.hardcoreserver.HardcoreServer
+api-version: 1.19
+authors: [CrazyCranberry]
+description: If one person dies. Everyone dies.
