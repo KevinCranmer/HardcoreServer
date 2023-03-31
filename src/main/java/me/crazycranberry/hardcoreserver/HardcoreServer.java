@@ -18,6 +18,7 @@ import java.util.logging.Logger;
 public final class HardcoreServer extends JavaPlugin implements Listener {
     public final static Logger logger = Logger.getLogger("Minecraft");
     YamlConfiguration someoneDiedConfig;
+    //test
 
     @Override
     public void onEnable() {
